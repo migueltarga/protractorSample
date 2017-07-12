@@ -1,4 +1,4 @@
-var site = 'https://concierge.totalwine.com/my-account';
+var site = '';
 
 describe('Test totalwine', function() {
 
